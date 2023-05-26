@@ -1,0 +1,42 @@
+.bands {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.band-item {
+  background-color: gainsboro;
+  color: black;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 5px 5px;
+}
+.videos {
+  display: flex;
+  flex-wrap: wrap;
+}
+.video-item {
+  width: 30%;
+  border: 1px solid #d7d7d7;
+  /* padding: 20px; */
+  margin: 10px;
+}
+.video-name {
+  padding: 20px;
+}
+.filter-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 5px;
+}
+.button-icons {
+  display: flex;
+}
+.button-icons span {
+  padding: 10px;
+}
+.video-player {
+  display: flex;
+  justify-content: center;
+  background: #000;
+  flex-wrap: wrap;
+}

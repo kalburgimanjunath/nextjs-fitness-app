@@ -1,0 +1,21 @@
+.job-category-container {
+  display: flex;
+  /* justify-content: space-between; */
+  flex-wrap: wrap;
+}
+.job-category-item {
+  text-align: center;
+  /* border: 1px solid #d7d7d7; */
+  padding: 20px;
+  margin: 10px;
+  min-width: 30%;
+  box-shadow: -1px 1px 10px 0px #d9d9d9;
+}
+.menu-banner {
+  display: flex;
+  margin: 20px 0;
+}
+.banner-text {
+  min-width: 39%;
+  margin: 50px 20px 0 0;
+}

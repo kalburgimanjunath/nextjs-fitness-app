@@ -1,0 +1,36 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@eartho/one-client-react": "^1.1.6",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.0",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.5",
+    "formik": "^2.2.9",
+    "next": "^13.0.6",
+    "next-auth": "^4.22.1",
+    "ra-data-json-server": "^4.10.3",
+    "react": "^18.2.0",
+    "react-admin": "^4.10.3",
+    "react-audio-voice-recorder": "^1.1.7",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-speech": "^1.0.2",
+    "react-speech-kit": "^3.0.1",
+    "react-webcam": "^7.0.1",
+    "reactstrap": "^9.1.10",
+    "slate": "^0.94.1",
+    "slate-react": "^0.94.2",
+    "styled-components": "*"
+  }
+}

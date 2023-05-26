@@ -1,0 +1,10 @@
+@import 'sidebar.module.css';
+@import 'navbar.module.css';
+@import 'post.module.css';
+@import 'search.module.css';
+@import 'jobs.module.css';
+@import 'videos.module.css';
+@import 'modal.module.css';
+.rightpane {
+  padding: 20px;
+}
